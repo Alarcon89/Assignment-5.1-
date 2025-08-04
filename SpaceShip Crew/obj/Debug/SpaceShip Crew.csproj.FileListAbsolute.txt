@@ -1,0 +1,13 @@
+D:\University of Advaced Technology\MS539\SpaceShip Crew\bin\Debug\SpaceShip Crew.exe.config
+D:\University of Advaced Technology\MS539\SpaceShip Crew\bin\Debug\SpaceShip Crew.exe
+D:\University of Advaced Technology\MS539\SpaceShip Crew\bin\Debug\SpaceShip Crew.pdb
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip Crew.csproj.AssemblyReference.cache
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip_Crew.Main.resources
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip_Crew.Properties.Resources.resources
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip Crew.csproj.GenerateResource.cache
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip Crew.csproj.CoreCompileInputs.cache
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip Crew.exe
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShip Crew.pdb
+D:\University of Advaced Technology\MS539\SpaceShip Crew\bin\Debug\CrewLibraryDLL.dll
+D:\University of Advaced Technology\MS539\SpaceShip Crew\bin\Debug\CrewLibraryDLL.pdb
+D:\University of Advaced Technology\MS539\SpaceShip Crew\obj\Debug\SpaceShi.5C89C495.Up2Date

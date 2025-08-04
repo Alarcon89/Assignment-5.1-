@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShip Crew", "SpaceShip Crew.csproj", "{DB471EE6-0C78-47D4-93C3-88E1E7D8E214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "..\CrewLibraryDLL\People.csproj", "{E65EDF77-6271-410A-A1F7-6AA0270C7D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB471EE6-0C78-47D4-93C3-88E1E7D8E214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB471EE6-0C78-47D4-93C3-88E1E7D8E214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB471EE6-0C78-47D4-93C3-88E1E7D8E214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB471EE6-0C78-47D4-93C3-88E1E7D8E214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65EDF77-6271-410A-A1F7-6AA0270C7D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65EDF77-6271-410A-A1F7-6AA0270C7D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65EDF77-6271-410A-A1F7-6AA0270C7D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65EDF77-6271-410A-A1F7-6AA0270C7D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3C14F9-C931-49D0-BFA1-9BCADF2A7A2E}
+	EndGlobalSection
+EndGlobal
