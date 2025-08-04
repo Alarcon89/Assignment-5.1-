@@ -1,0 +1,6 @@
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\obj\Debug\People.csproj.AssemblyReference.cache
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\obj\Debug\People.csproj.CoreCompileInputs.cache
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\bin\Debug\CrewLibraryDLL.dll
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\bin\Debug\CrewLibraryDLL.pdb
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\obj\Debug\CrewLibraryDLL.dll
+D:\University of Advaced Technology\MS539\CrewLibraryDLL\obj\Debug\CrewLibraryDLL.pdb
